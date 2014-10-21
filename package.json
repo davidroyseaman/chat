@@ -1,0 +1,24 @@
+{
+  "name": "chat",
+  "version": "1.0.0",
+  "description": "Chat example code =================",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ctrldavid/chat.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ctrldavid/chat/issues"
+  },
+  "homepage": "https://github.com/ctrldavid/chat",
+  "dependencies": {
+    "node-uuid": "^1.4.1",
+    "redis": "^0.12.1",
+    "ws": "^0.4.32"
+  }
+}
